@@ -1,6 +1,7 @@
 # Don't Panic!
 
-![Detective Noir Server Room](image_link_here)
+![dont-panic (1)](https://github.com/mejbass/Don-t-Panic-/assets/130122304/3913d156-8e53-41eb-ac70-0dd084fa0a00)
+
 
 "Don't Panic!" is a Python-based covert operation set in a detective noir atmosphere, guiding participants to automate the infiltration of a SQLite database and alter the administrator's password, ultimately honing their skills in cybersecurity and SQL manipulation.
 
